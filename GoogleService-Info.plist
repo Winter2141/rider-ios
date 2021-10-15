@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>914441446532-qr03h8jhjid5nsj1ftlvo0h8lgs1qmco.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.914441446532-qr03h8jhjid5nsj1ftlvo0h8lgs1qmco</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>914441446532-7r3o0c69lu45v7mgq02nkm1o6el7157n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCSE2XfL1qfc1WmJPqN6qQHnDPUOjC6-Sk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>914441446532</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pinkcar.client</string>
+	<key>PROJECT_ID</key>
+	<string>pinkcar</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pinkcar.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:914441446532:ios:6dea0d0c077904aa404ed1</string>
+	<key>DATABASE_URL</key>
+	<string>https://pinkcar.firebaseio.com</string>
+</dict>
+</plist>
